@@ -7,6 +7,8 @@
 
 #test a trigger with some note
 
+TEST ONE MORE TIME
+
 # Hello GitHub Actions
 :)
 
